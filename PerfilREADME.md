@@ -3,7 +3,7 @@
 <div dsplay="inline-block">
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
 Bem vindos ao meu resposítório Github!
-<h4>Eu sou Luzia Cardoso</h4> 
+<h4>Eu sou</h4> 
 <h1 align="center">Luzia Cardoso </h1>
   
 
