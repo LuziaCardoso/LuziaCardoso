@@ -21,7 +21,7 @@ Bem vindos ao meu resposítório Github!
 <!---ESTATÍSTICAS DO GITHUB--->
 <p align="center">
 <a href="https://github.com/LINKDOSEUGIHUB">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AugustoQueiroz13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuziaCardoso&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuziaCardoso&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -48,6 +48,7 @@ Bem vindos ao meu resposítório Github!
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
+
 
 
 
