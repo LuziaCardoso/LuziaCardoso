@@ -29,7 +29,7 @@ Bem vindos ao meu resposítório Github!
 
 <br>
 <!---ÍCONES DAS LINGUAGENS E FERRAMENTAS--->   
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Tecnologias e Ferramentas: <br>
 <code><img width="40px" src="https://www.sketchappsources.com/resources/source-image/python-logo.png" title = "Python"/></code>
 
 
@@ -49,6 +49,7 @@ Bem vindos ao meu resposítório Github!
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
+
 
 
 
