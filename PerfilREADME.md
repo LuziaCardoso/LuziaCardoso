@@ -30,7 +30,7 @@ Bem vindos ao meu resposítório Github!
 <br>
 <!---ÍCONES DAS LINGUAGENS E FERRAMENTAS--->   
 ### 🖥️ Tecnologias e Ferramentas: 
-<code><img width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg](https://icon-icons.com/pt/icone/python/104452)" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg(https://icon-icons.com/pt/icone/python/104452)](https://www.sketchappsources.com/resources/source-image/python-logo.png)" title = "HTML5"/></code>
 
 
 <!---O QUE VC ESTÁ APRENDENDO--->   
@@ -49,4 +49,5 @@ Bem vindos ao meu resposítório Github!
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
+
 
