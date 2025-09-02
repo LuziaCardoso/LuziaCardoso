@@ -10,8 +10,8 @@ Bem vindos ao meu resposítório Github!
 <!---APRESENTAÇÃO--->  
 <div display="block">
 <p align="center">- :book: Cursando Análise e desenvolvimento de sistemas</p>
-<p align="center">- 🌱 UNIGRANRIO Afya</p>
-<p align="center">- 🌱 Atualmente estou aprendendo Python</p>
+<p align="center">- :mortar_board: UNIGRANRIO Afya</p>
+<p align="center">- :snake: Atualmente estou aprendendo Python</p>
 <p align="left">- 💬 Pergunte-me sobre ...</a>
 <p align="left">- ⚡ Curiosidade: ...</p>
 </div>
@@ -45,6 +45,7 @@ Bem vindos ao meu resposítório Github!
 <a href="https://www.linkedin.com/in/luzia-cardoso-0715ba16a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
+
 
 
 
