@@ -3,7 +3,7 @@
 <div dsplay="inline-block">
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
 Bem vindos ao meu resposítório Github!
-<h4>Eu sou</h4> 
+<h4>Eu sou Luzia Cardoso</h4> 
 <h1 align="center">Seu nome </h1>
   
 
@@ -23,7 +23,7 @@ Bem vindos ao meu resposítório Github!
 <p align="center">
 <a href="https://github.com/LINKDOSEUGIHUB">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AugustoQueiroz13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuziaCardoso&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -51,4 +51,5 @@ Bem vindos ao meu resposítório Github!
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
 </div>
